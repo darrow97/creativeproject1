@@ -1,0 +1,12 @@
+.center
+{
+  height: 650px;
+}
+
+.center img
+{
+  float: right;
+  width: 45%;
+  margin-right: 3%;
+  margin-left: 2%;
+}
